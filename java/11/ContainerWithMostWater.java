@@ -1,3 +1,7 @@
+/**
+Runtime: 3 ms, faster than 79.43% of Java online submissions for Container With Most Water.
+Memory Usage: 52.5 MB, less than 64.77% of Java online submissions for Container With Most Water.
+*/
 class ContainerWithMostWater {
     public int maxArea(int[] height) {
         int left = 0;
